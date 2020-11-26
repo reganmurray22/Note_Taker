@@ -1,0 +1,30 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "note taking app using express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reganmurray22/Note_Taker.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "path",
+    "fs"
+  ],
+  "author": "Regan Murray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reganmurray22/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/reganmurray22/Note_Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
