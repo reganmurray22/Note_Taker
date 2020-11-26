@@ -31,7 +31,7 @@ module.exports = function (app) {
     for (currentNote of data) {
       currentNote.id = newId.toString();
       newId++;
-    }
+    } 
     fs.writeFileSync("./db/db.json", JSON.stringify(data), function (err) {
       if (err) throw err;
     });
