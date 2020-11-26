@@ -14,4 +14,4 @@ For users that need to keep track of a lot of information, it's easy to forget o
 ## Link to the App hosted by Heroku
 https://express-note-taker-app22.herokuapp.com/
 
-![](Note_Taker.gif)
+![](Note_Taker.gif=250x250)
